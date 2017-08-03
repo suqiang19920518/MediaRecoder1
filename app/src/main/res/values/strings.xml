@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">视频录制</string>
+    <string name="start_record">开始录制</string>
+    <string name="stop_record">停止录制</string>
+    <string name="media_record_show1">视频录制演示1</string>
+    <string name="media_record_show2">视频录制演示2</string>
+    <string name="media_trim_show">视频裁剪演示</string>
+    <string name="media_trim_start">开始裁剪</string>
+    <string name="permission_recode_audio_hint">没有此权限，不能进行视频录制</string>
+    <string name="permission_camera_hint">没有此权限，不能进行视频录制</string>
+    <string name="permission_read_external_hint">没有此权限，不能进行视频录制</string>
+    <string name="permission_white_external_hint">没有此权限，不能进行视频录制</string>
+</resources>
